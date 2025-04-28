@@ -3,7 +3,7 @@
 Classify text documents based on sentiment or topic using machine learning.
 
 **Data**:  
-- Source: Rotten Tomatoes Dataset
+- Source: Hugging Face dataset [Rotten Tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes)
 - Description: Documents labeled into different categories.
 
 **Data Mining Operations**:  
