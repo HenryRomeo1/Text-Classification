@@ -1,9 +1,9 @@
-# Text-Classification
+# Text Classification from 10,000 Rotten Tomatoes Reviews
 **Problem Statement**:  
 Classify text documents based on sentiment or topic using machine learning.
 
 **Data**:  
-- Source: Text dataset from Google Collab
+- Source: Rotten Tomatoes Dataset
 - Description: Documents labeled into different categories.
 
 **Data Mining Operations**:  
