@@ -3,7 +3,7 @@
 Classify text documents based on sentiment or topic using machine learning.
 
 **Data**:  
-- Source: Text dataset provided in the course.
+- Source: Text dataset from Google Collab
 - Description: Documents labeled into different categories.
 
 **Data Mining Operations**:  
